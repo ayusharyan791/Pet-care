@@ -1,0 +1,56 @@
+/* form {
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    background: grey;
+}
+
+h1 {
+    font-size: 1.5rem;
+    margin-bottom: 40px;
+}
+
+label {
+display: inline-block;
+width: 100px;
+margin-bottom: 15px;
+text-align: center;
+}
+
+input[type="text"],
+input[type="integer"],
+input[type="email"],
+input[type="password"] {
+    width: auto;
+    padding: 12px;
+    border: 1px solid #e622b5;
+    border-radius: 30px;
+    box-sizing: border-box;
+    margin-bottom: auto;
+} */
+
+
+*{
+    box-sizing: border-box;
+}
+form {
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    background: grey;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px 30px;
+    font-size: 17px;
+    padding: 8px;
+}
+
+.container{
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid rgb(166, 31, 31);
+    border-radius: 5px;
+}
